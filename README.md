@@ -46,3 +46,4 @@ Laptop GPUs often have locked fan controls - results vary by manufacturer and mo
 
 MIT
  
+ 
